@@ -4,9 +4,9 @@
 
 - Dois processos para gerar variáveis de paisagem: 
 
-      1. séries temporaris (MapBiomas) - anos 2008-2015
+      1. Séries temporaris (MapBiomas) - anos 2008-2015
   
-      2. integração das bases - melhor uso possível (SOS, MapBiomas e estados) - ano 2014 
+      2. Integração das bases - melhor uso possível (SOS, MapBiomas e estados) - ano 2014 
   
 - Três grupos de variáveis:
   
