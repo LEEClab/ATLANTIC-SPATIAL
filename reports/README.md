@@ -6,7 +6,7 @@
 
       1. séries temporaris (MapBiomas) - anos 2008-2015
   
-       2. integração das bases - melhor uso possível (SOS, MapBiomas e estados) - ano 2014 
+      2. integração das bases - melhor uso possível (SOS, MapBiomas e estados) - ano 2014 
   
 - Três grupos de variáveis:
   
@@ -40,11 +40,13 @@
          
         3.2 Precipitação
         
-        3.3 Nuvens
+        3.3 Cobertura de nuvens
         
-        3.4 Insolação
+        3.4 Radiação solar
         
-        3.5 Pressão de Vapor
+        3.5 Velocidade do vento
+        
+        3.6 Pressão de vapor de água
     
     
 - Organizar os scripts do GRASS para as variáveis de paisagem e relevo
