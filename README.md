@@ -1,6 +1,6 @@
 # AtlanticSpatialData
 
-Work Group for organization of Atlantic Forest Spatial Database
+Work Group for organization of Atlantic Forest Spatial Data base
 
 ## Members
   <img src="https://github.com/LEEClab/SDMGroup/blob/master/members/mau.jpg" width="100" height="100">
