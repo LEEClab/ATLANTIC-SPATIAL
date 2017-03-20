@@ -10,24 +10,31 @@
 - MapBiomas
 
 ### Variables
-- SOS Mata Atlântica
+- Percentage of native vegetation cover
 
-- MapBiomas
+- Structural connectivity
+
+- Functional connectivity (0 - 1500 m)
+
+- Edge
+
+- Heterogeneity
 
 ---
 
 ### 2. Relief
 
 ### Source
-- SRTM (30 m)
-
 - Topodata (90 m)
 
 ### Variables
 - Altitude
 
+- Declivity
 
+- Aspecty
 
+- Accumulated flow
 
 ---
 
