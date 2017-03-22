@@ -10,9 +10,7 @@
 
 - Para além do limite MA IBGE, considerar os remanescentes do SOS MA 2014
 
-- Pegar scripts .sh do GRASS GIS das métricas de paisagem rasterizadas
-
-- Resolução de 30 m e avaliar as unidades de análise (*regions*) do GRASS (hexágonos, com *buffer* de 100 m)
+- Resolução de 30 m e analisar no LSMetrics
 
 - Descobrir a legenda oficial do MapBiomas
 
