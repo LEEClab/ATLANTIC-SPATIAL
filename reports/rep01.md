@@ -16,7 +16,7 @@
 
         1.2. Conectividade estrutural
 
-        1.3. Conectividade funcional (0 - 1500 km)
+        1.3. Conectividade funcional (0 - 1500 m ?)
 
         1.4. Borda
 
