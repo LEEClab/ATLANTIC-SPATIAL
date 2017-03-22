@@ -14,3 +14,5 @@
 
 - Resolução de 30 m e avaliar as unidades de análise (*regions*) do GRASS (hexágonos, com *buffer* de 100 m)
 
+- Descobrir a legenda oficial do MapBiomas
+
