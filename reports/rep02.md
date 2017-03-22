@@ -10,7 +10,7 @@
 
 - Para além do limite MA IBGE, considerar os remanescentes do SOS MA 2014
 
-- Resolução de 30 m e analisar no LSMetrics
+- Resolução de 30 m e analisar no [LSMetrics](https://github.com/LEEClab/LS_METRICS)
 
 - Descobrir a legenda oficial do MapBiomas
 
