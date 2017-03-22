@@ -60,5 +60,3 @@
 - Fazer o mosaico do MapBiomas para todos os anos
 
 ---
-
-## Rep 002
