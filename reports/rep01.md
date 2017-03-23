@@ -14,15 +14,29 @@
       
         1.1  Porcentagem de cobertura vegetal nativo (LSMetrics gera a porcentagem de cobertura numa janela ao redor de cada pixel - isso é útil?)
         
-        1.2. Conectividade estrutural (LSMetrics gera uma métrica chamada "Patch size", o tamanho de cada patch (ou conjunto de pixels de vegetação nativa, ou de qualquer tipo de cobertura) conectados estruturalmente; gera tb "Fragment size" (o mesmo que patch size, mas sem contar corredores ou estuturas com largura menor do que o definido pelo usuário; e gera uma medida chamada structural connectivity, a diferença em hectares entre Patch size e Fragment size; se um patch tem um só fragmento, a conectividade estrutural é zero) -> o que disso interessa?
+        1.2. Conectividade estrutural 
+        (LSMetrics gera uma métrica chamada "Patch size", o tamanho de cada patch (ou conjunto de pixels  
+        de vegetação nativa, ou de qualquer tipo de cobertura) conectados estruturalmente;  
+        gera tb "Fragment size" (o mesmo que patch size, mas sem contar corredores ou   
+        estuturas com largura menor do que o definido pelo usuário;  
+        e gera uma medida chamada structural connectivity, a diferença em hectares entre   
+        Patch size e Fragment size;  se um patch tem um só fragmento, a conectividade  
+        estrutural é zero) -> o que disso interessa?
         
-        1.2.5. Com o LSMetrics também é possível calcular a core area dos fragmentos, dado uma distância de borda definida pelo usuario -> isso interessa?
+        1.2.5. Com o LSMetrics também é possível calcular a core area dos fragmentos,  
+        dado uma distância de borda definida pelo usuario -> isso interessa?
         
-        1.3. Conectividade funcional (0 - 1500 m ?) (o LSMetrics gera: "Total Functionally Connected Area", a área dos clusters de fragmentos funcionalmente conectados, dado uma capacidade de cruzar matrizes, definida pelo usuario; E calcula a "functional connectivity", a diferença em hectares entre os tamanhos dos clusters e o patch size.)
+        1.3. Conectividade funcional (0 - 1500 m ?) (o LSMetrics gera: "Total Functionally Connected Area",  
+        a área dos clusters de fragmentos funcionalmente conectados, dado uma capacidade de cruzar matrizes,  
+        definida pelo usuario; E calcula a "functional connectivity", a diferença em hectares entre os  
+        tamanhos dos clusters e o patch size.)
         
-        1.4. Borda (LSMetrics quantifica a area de borda total na paisagem, e tb a porcentagem de borda numa janela ao redor de cada pixel, dada uma extensão dessa janela; para ambos, a distancia de borda é um parametro definido pelo usuario).
+        1.4. Borda (LSMetrics quantifica a area de borda total na paisagem, e tb a porcentagem de borda  
+        numa janela ao redor de cada pixel, dada uma extensão dessa janela;  
+        para ambos, a distancia de borda é um parametro definido pelo usuario).
         
-        1.5. Heterogeneidade (LSMetrics calcula diversidade de Shannon - mas da pra facilmente modificar a medida de diversidade...)
+        1.5. Heterogeneidade (LSMetrics calcula diversidade de Shannon - mas  
+        da pra facilmente modificar a medida de diversidade...)
 
       2. Relevo
         
