@@ -6,9 +6,9 @@
 
 - Mosaicar o MapBiomas de 2015
 
-- Comparar o MapBiomas 2015 e SOS MA 2014 para o limite do IBGE
+- Comparar o MapBiomas 2015 e SOS MA 2014 para o limite da Mata Atlântica do IBGE
 
-- Para além do limite MA IBGE, considerar os remanescentes do SOS MA 2014
+- Para além do limite da Mata Atlântica IBGE, considerar os remanescentes do SOS MA 2014
 
 - Resolução de 30 m e analisar no [LSMetrics](https://github.com/LEEClab/LS_METRICS)
 
