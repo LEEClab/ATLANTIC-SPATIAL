@@ -12,7 +12,7 @@
 - Organize land use map and elevation
   - Elevation - ready
   - Land use: finalizar a preparacao da base de dados
-  - estradas mundial - gRoads?
+  - estradas mundial - GRIP global roads database
   - urbano - mapbiomas/IBGE
   - pastagens - mapbiomas
   - agricultura - temporaria, perene
