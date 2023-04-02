@@ -1,4 +1,3 @@
 # AtlanticSpatialData
 
-Work Group for organization of Atlantic Forest Spatial Data base
-
+Working Group for the development of the Atlantic Forest Spatial Data base.
