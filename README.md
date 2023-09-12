@@ -1,7 +1,7 @@
-# ATLANTIC-AMPHIBIANS
+# ATLANTIC SPATIAL
 
 <p align="justify">
-ATLANTIC-AMPHIBIANS dataset is part of the <a href="https://github.com/LEEClab/Atlantic_series">ATLANTIC series</a>, on which research teams are compiling biodiversity information of Atlantic Forest biome. This paper follows previous published data papers in <a href="https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1939-9170.AtlanticPapers">Ecology</a>.
+ATLANTIC SPATIAL dataset is part of the <a href="https://github.com/LEEClab/Atlantic_series">ATLANTIC series</a>, on which research teams are compiling biodiversity information of Atlantic Forest biome. This paper follows previous published data papers in <a href="https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1939-9170.AtlanticPapers">Ecology</a>.
 
 The dataset will be submeted in Ecology:
 
