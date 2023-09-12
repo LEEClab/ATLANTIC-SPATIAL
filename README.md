@@ -3,7 +3,7 @@
 <p align="justify">
 ATLANTIC SPATIAL dataset is part of the <a href="https://github.com/LEEClab/Atlantic_series">ATLANTIC series</a>, on which research teams are compiling biodiversity information of Atlantic Forest biome. This paper follows previous published data papers in <a href="https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1939-9170.AtlanticPapers">Ecology</a>.
 
-The dataset will be submeted in Ecology:
+The dataset will be submitted to Ecology::
 
 Vancine, M. H., B. B. Niebuhr, R. L. Muylaert, J. E. F. Oshima, V. Tonetti, R. Bernardo, R. S. C. Alves, E. M. Zanette, J. G. R. Giovanelli, C. H. Grohmann, M. C. Ribeiro. ATLANTIC SPATIAL: a dataset of landscape, topographic, hydrologic and anthropogenic metrics for the Atlantic Forests of South America. Ecology in prep. </p>
 
