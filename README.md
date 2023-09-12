@@ -32,10 +32,10 @@ DataS1: dataset with ATLANTIC_SPATIAL.csv.
 Universidade Estadual Paulista (UNESP), Instituto de Biociências, Departamento de Zoologia e Centro de Aquicultura (CAUNESP), Rio Claro, SP, Brazil
 
 <ins>
-  Kauã da Silva Duarte
+  Bernardo Brandão Niebuhr
 </ins>
 
-Universidade Estadual Paulista (UNESP), Instituto de Biociências, Departamento de Ecologia, Laboratório de Ecologia Espacial e Conservação, Rio Claro, Brazil
+Department of Terrestrial Biodiversity, Norwegian Institute for Nature Research (NINA), Trondheim, Norway
 
 <ins>
   Milton Cezar Ribeiro
