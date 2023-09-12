@@ -13,14 +13,6 @@ Vancine, M. H., B. B. Niebuhr, R. L. Muylaert, J. E. F. Oshima, V. Tonetti, R. B
 Space is one of the main drivers of biodiversity, once it regulates the underlying processes affecting the distribution and dynamics of species. It has become fundamental in the face of the rapid climate and land use/cover changes at local and global scales, which have led to habitat loss and fragmentation for various organisms. The Atlantic Forest of South America (AF) is among the global biodiversity hotspots because of its high species richness and endemism associated with intense habitat loss. Most of this threat is due to the expansion of urban areas and industry, extensive agricultural and livestock production, mining, and urbanization. Here we present a spatial covariates dataset of 429 maps for the entire AF at fine scale (30-m): land cover (31 classes), distance outside from land cover classes grouped (forest vegetation, natural vegetation, pasture, agriculture temporary, agriculture perennial, forest plantation, urban areas, mining, and water), landscape metrics (morphologies—matrix, core, edge, corridor, stepping stone, branch and perforation, fragment and patch size and percents, edge and core areas and percents, structural and functional connectivity—for different gap-crossing distances, distance inside and outside from edges, perimeter and perimeter area ratio, and landscape diversity—Shannon and Simpson indices), topographic metrics (elevation, slope, aspect, curvatures, and landform elements—peak, ridge, shoulder, spur, slope, hollow, footslope, valley, pit, and ﬂat), hydrologic (potential springs and its kernel and potential streams and distance from it) and anthropogenic structures (urban, roads, railways, roads and railways, protected areas, and indigenous territories and distance from it). We present an effort in updating and integrating fine-scale spatial information for the AF in a single dataset. We hope this information enables the integration of biodiversity and environmental data for the AF in ecological studies, and expect it to be one of the basis for landscape planning, biodiversity conservation, and forest restoration programs.
 </p>
 
-<p align="center"> 
-<img src="https://github.com/mauriciovancine/ATLANTIC-AMPHIBIANS/blob/master/atlantic_amphibians_map.png" height="600" width="450">
-</p>
-
-<p align="justify">
-<b>Figure 1.</b> Distribution of the study sites in the ATLANTIC AMPHIBIANS dataset. The limit of Atlantic Forest Biome is according Muylaert et al. (in review). 
-</p>
-
 ---
 
 ## Class I. Data set descriptors
